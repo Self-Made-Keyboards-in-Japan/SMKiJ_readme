@@ -29,5 +29,7 @@ https://scrapbox.io/self-made-kbds-ja/SMKiJ_Discord_%23README_(unofficially_tran
     - ARCHIVE 化の判断は随時行います
 - OTHER
     - 直接はキーボードに関係ない話題などはこちら :video_game:
+    - コミュニティとして、キーボードだけに囚われないコミュニケーションの場としてご活用ください :joy:
+    - OTHER カテゴリを利用するには専用の role が必要です。 #other-readme をお読みください :pray:
 - ARCHIVE
     - 運用が停止した読み込み専用の過去ログ資産 :scroll:
