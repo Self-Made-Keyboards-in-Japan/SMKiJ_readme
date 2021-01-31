@@ -7,6 +7,9 @@
 動かなくて相談したいときに事前に確認する項目
 https://scrapbox.io/self-made-kbds-ja/%E5%8B%95%E3%81%8B%E3%81%AA%E3%81%8F%E3%81%A6%E7%9B%B8%E8%AB%87%E3%81%97%E3%81%9F%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AB%E4%BA%8B%E5%89%8D%E3%81%AB%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B%E9%A0%85%E7%9B%AE
 
+QMK 公式ドキュメント(日本語)
+https://docs.qmk.fm/#/ja/
+
 ─────────────────────────────────────
 
 **規約**
@@ -29,6 +32,7 @@ https://scrapbox.io/self-made-kbds-ja/%E5%8B%95%E3%81%8B%E3%81%AA%E3%81%8F%E3%81
 - みんなでたのしく会話をしましょう:hugging:
 
 ─────────────────────────────────────
+
 **Links**
 Self-Made Keyboards in Japan Scrapbox
 https://scrapbox.io/self-made-kbds-ja/  
@@ -38,3 +42,7 @@ https://scrapbox.io/self-made-kbds-ja/%E5%8B%95%E3%81%8B%E3%81%AA%E3%81%8F%E3%81
 
 自作キーボード 大チェッカー
 https://daichkr.hatelabo.jp/antenna/7519277568860476007
+
+#readme 更新管理リポジトリ
+https://github.com/SMKJP/SMKiJ_readme
+
