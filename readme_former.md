@@ -3,7 +3,7 @@
 このサーバーは自作キーボードに興味がある・つくっている・ほしい人たちのコミュニティ活動の場です。
 
 English translated version (unofficial) here:
-https://scrapbox.io/self-made-kbds-ja/SMKiJ_Discord_%23README_(unofficially_translated_from_Japanese)
+https://scrapbox.io/self-made-kbds-ja/SMKiJ_Discord_%23README_%28unofficially_translated_from_Japanese%29
 
 ──────────────────────────────
 
