@@ -18,7 +18,7 @@ https://scrapbox.io/self-made-kbds-ja/SMKiJ_Discord_%23README_%28unofficially_tr
     - キーボードに関する雑談など。投稿チャネルに悩んだらまずはここへ :point_left:
 - PARTS & COLLECTIONS
     - 個別のキーボードのパーツの話題や自慢のコレクションの紹介、Group Buy 情報など :keyboard:
-    - #vendor-announcements では販売業者の方からのスペシャルオファーを提供 ※投稿権限欲しい人は @managers まで
+    - #vendor-announcements では販売業者の方からのスペシャルオファーや IC/GB 情報を提供 ※投稿権限欲しい人は @managers まで
 - DEVELOPMENT
     - キーボードの設計開発に関する話題はこちら :triangular_ruler:
 - CLINIC
