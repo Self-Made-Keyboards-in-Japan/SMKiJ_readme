@@ -3,7 +3,7 @@
 このサーバーは自作キーボードに興味がある・つくっている・ほしい人たちのコミュニティ活動の場です。
 
 English translated version (unofficial) here:
-https://scrapbox.io/self-made-kbds-ja/SMKiJ_Discord_%23README_(unofficially_translated_from_Japanese)
+https://scrapbox.io/self-made-kbds-ja/SMKiJ_Discord_%23README_%28unofficially_translated_from_Japanese%29
 
 ──────────────────────────────
 
@@ -18,14 +18,14 @@ https://scrapbox.io/self-made-kbds-ja/SMKiJ_Discord_%23README_(unofficially_tran
     - キーボードに関する雑談など。投稿チャネルに悩んだらまずはここへ :point_left:
 - PARTS & COLLECTIONS
     - 個別のキーボードのパーツの話題や自慢のコレクションの紹介、Group Buy 情報など :keyboard:
-    - #vendor-announcements では販売業者の方からのスペシャルオファーを提供 ※投稿権限欲しい人は @managers まで
+    - #vendor-announcements では販売業者の方からのスペシャルオファーや IC/GB 情報を提供 ※投稿権限欲しい人は @managers まで
 - DEVELOPMENT
     - キーボードの設計開発に関する話題はこちら :triangular_ruler:
 - CLINIC
     - トラブルシュートはこちら。利用の前に必ず #clinic-readme🔰 を一度お読みください
 - PROJECT
     - 各種キーボードや開発対象ごとのチャネル :tools:
-    - コミュニティと協調して開発を行いたい、Interest を Check したい、という場合は @managers に申請してもらえればプロジェクトチャネル開設を検討します :person_gesturing_ok: 
+    - コミュニティと協調して開発を行いたい、Interest を Check したい、という場合は @managers に申請してもらえればプロジェクトチャネル開設を検討します :person_gesturing_ok:
     - ARCHIVE 化の判断は随時行います
 - OTHER
     - 直接はキーボードに関係ない話題などはこちら :video_game:
